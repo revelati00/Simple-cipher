@@ -1,5 +1,4 @@
 from tkinter import *
-from tkinter import messagebox, simpledialog
 # Dominik Matusiak, revelati00@gmail.com
 
 def press():
